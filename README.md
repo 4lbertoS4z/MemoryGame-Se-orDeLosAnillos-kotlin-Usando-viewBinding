@@ -1,6 +1,6 @@
 Juego Memory desarrollado en Kotlin, usando binding.
 
-**Creado por:Alberto Saz **
+**Creado por:Alberto Saz**
 
 **Algunas imagenes del juego:**
 
