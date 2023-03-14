@@ -1,5 +1,7 @@
 Juego Memory desarrollado en Kotlin, usando binding.
+
 Video Demo: https://www.youtube.com/watch?v=lNVzAqfp30I
+
 **Creado por:Alberto Saz**
 
 **Algunas imagenes del juego:**
